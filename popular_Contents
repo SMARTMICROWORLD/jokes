@@ -1,0 +1,9 @@
+[
+  {id: '1', content: 'Hi friends, I am Jokians'},
+  {id: '2', content: 'Welcome to my profile...'},
+  {
+    id: '3',
+    content: 'रिश्तेदार - और बेटा आगे...',
+  },
+  {id: '4', content: 'जिंदा  रहोगे तो खुद देख...'},
+]
