@@ -1,6 +1,6 @@
 [
     {
-      "data": "<View><Text style={{color:'red'}}>Hellow</Text></View>"
+      "data": "<Text style={{color:'red'}}>Hellow</Text>"
     },
     {
       "id": "71",
