@@ -1,23 +1,29 @@
 [
   {
-    data: <View><Text>Hellow</Text></View>
+    data: (
+      <View>
+        <Text>Test</Text>
+      </View>
+    ),
   },
   {
-    "id": "71",
-    "new_id": "802599170",
-    "user_id": "1",
-    "username": "Abhay Kumar",
-    "user_dp": "https://sea1.discourse-cdn.com/brave/user_avatar/community.brave.com/amal/500/100413_2.png",
-    "content": "रिश्तेदार - और बेटा आगे क्या करने का सोचा है.....??\r\n.\r\n.\r\n.\r\nMe - जिंदा  रहोगे तो खुद देख लेना...!!!!!\r\n😝😜😂",
-    "head_category": "Official Language",
-    "main_category": "Jokes",
-    "category": "Santa Banta",
-    "language": "Hindi",
-    "date": "2021-08-26",
-    "time": "20:22:01",
-    "meridian": "PM",
-    "date_time": "2022-02-28 20:22:01",
-    "current_utc": "2019-08-26 10:53:11",
-    "like_count": "0"
-  }
-]
+    id: "71",
+    new_id: "802599170",
+    user_id: "1",
+    username: "Abhay Kumar",
+    user_dp:
+      "https://sea1.discourse-cdn.com/brave/user_avatar/community.brave.com/amal/500/100413_2.png",
+    content:
+      "रिश्तेदार - और बेटा आगे क्या करने का सोचा है.....??\r\n.\r\n.\r\n.\r\nMe - जिंदा  रहोगे तो खुद देख लेना...!!!!!\r\n😝😜😂",
+    head_category: "Official Language",
+    main_category: "Jokes",
+    category: "Santa Banta",
+    language: "Hindi",
+    date: "2021-08-26",
+    time: "20:22:01",
+    meridian: "PM",
+    date_time: "2022-02-28 20:22:01",
+    current_utc: "2019-08-26 10:53:11",
+    like_count: "0",
+  },
+];
